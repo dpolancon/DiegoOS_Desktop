@@ -18,6 +18,7 @@ kanban-plugin: board
 - [ ] [[App_Berkley_PE5050]]
 - [ ] [[App_HECON_TT_PennUS]]
 - [ ] [[APP_JJCC_CUNY]]
+- [ ] [[APP_NYU_Politics]]
 
 
 ## Done

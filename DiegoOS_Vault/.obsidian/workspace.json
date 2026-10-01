@@ -11,10 +11,22 @@
             "id": "89c054fdabaeff48",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "kanban",
+              "state": {
+                "file": "Dashboard.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    true,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Dashboard"
             }
           }
         ]
@@ -67,12 +79,10 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           }
         ],
@@ -186,23 +196,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
       "obsidian-kanban:Create new board": false
     }
   },
   "active": "89c054fdabaeff48",
   "lastOpenFiles": [
+    "03_Outer_Layer/Active_Dashboard.md",
+    "03_Outer_Layer/A_Active_Missions/APP_NYU_Politics.md",
     "08_INBOX/Tasks.md",
     "03_Outer_Layer/A_Active_Missions/APP_JJCC_CUNY.md",
     "08_INBOX/paper_cn_JoseOlivari.md",
     "03_Outer_Layer/System_Prompts.md",
-    "03_Outer_Layer/Active_Dashboard.md",
     "03_Outer_Layer/A_Active_Missions/App_HECON_TT_PennUS.md",
     "Dashboard.md",
     "03_Outer_Layer/A_Active_Missions/App_Berkley_PE5050.md",
@@ -223,7 +234,6 @@
     "08_INBOX/Untitled.md",
     "08_INBOX/Untitled 2.md",
     "08_INBOX/as.md",
-    "02_Inner_Layer/digital_politics/01_ACTIVE_SessionHandoff.md",
     "01_Peripheral_Layer/09_ATTACHMENTS",
     "02_Inner_Layer/Fondecyt/FONDECYT_SystematicReview.pdf",
     "02_Inner_Layer/CSD_ER/repo",
