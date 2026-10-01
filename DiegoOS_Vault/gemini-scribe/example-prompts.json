@@ -1,0 +1,18 @@
+[
+  {
+    "icon": "search",
+    "text": "Find all notes related to the LSE Fellow position application."
+  },
+  {
+    "icon": "file-plus",
+    "text": "Summarize the key takeaways from the '2026-05-22 DiegoOS Core System Alignment' agent session."
+  },
+  {
+    "icon": "globe",
+    "text": "Research current academic trends in 'politica' and create new conceptual notes in the Conceptual_Notes folder."
+  },
+  {
+    "icon": "folder-tree",
+    "text": "Organize the notes in the Application_Pipeline folder by application stage, such as 'initial contact', 'interview', or 'offer'."
+  }
+]

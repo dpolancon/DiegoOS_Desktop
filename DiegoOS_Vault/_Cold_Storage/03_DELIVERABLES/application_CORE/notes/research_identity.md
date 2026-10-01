@@ -1,0 +1,44 @@
+### 1. Research identity
+
+I am a political economist and macroeconomist whose research investigates the geographically uneven development of global capitalism, focusing on how institutions, distribution, and technology co-determine long-run macroeconomic dynamics. My work bridges classical political economy, heterodox macroeconomics, and comparative-historical methods to study capital accumulation, capacity utilization, and crisis. I specialize in applying rigorous empirical tools—from time-series econometrics (ARDL/VECM) to data science and structured qualitative coding—to interrogate the structural foundations of inequality, macroeconomic measurement, and the historical transformation of accumulation regimes.
+
+### 2. Dissertation / main research contribution
+
+My dissertation, _Capacity Utilization and Accumulation Regimes: Essays in the Political Economy of Growth, Distribution, and Core-Periphery Dynamics_, examines how capitalist economies construct and destabilize productive capacity across different structural positions. Combining formal modeling, historical analysis, and applied econometrics, I challenge standard macroeconomic measures of slack by demonstrating that "normal" capacity utilization is not a neutral technical baseline, but an institutional settlement shaped by distributive conflict, labor relations, and core-periphery hierarchies. By developing new formal and econometric approaches—including a critical replication of Anwar Shaikh's utilization measures and a balance-sheet analysis of central bank leverage—my research uncovers how external financial constraints and domestic class struggles intertwine to shape accumulation, crisis, and the distribution of the social product.
+
+### 3. Inequality bridge
+
+While my work is not narrowly confined to household wealth inequality, I target the structural and macroeconomic roots of inequality. I analyze inequality through the lens of functional distribution, demonstrating how the profit rate, wage shares, and capital accumulation are governed by distributive conflict and labor-process dynamics. Furthermore, my published and policy work explicitly tackles social inequalities—such as analyzing the systemic reproduction of inequality through teacher segregation in Chile and quantifying the macroeconomic impacts of gender gaps in the labor market. My latest working paper also formalizes the link between distributive cycles, debt dynamics, and asset-inequality pressure within a Goodwin-Minsky framework.
+
+### 4. Stone Centre fit
+
+My research agenda strongly aligns with the Stone Centre’s mission to place inequality at the core of economic analysis. By demonstrating that key macroeconomic variables—like capacity utilization and output gaps—are fundamentally conditioned by distributional variables and institutional class conflict, my work challenges depoliticized models that treat inequality as a residual or peripheral outcome. I provide empirical and theoretical frameworks that make distribution an endogenous driver of macroeconomic stability and accumulation, reflecting the Centre's commitment to advancing a comprehensive, inequality-focused paradigm in economics.
+
+### 5. CORE Econ fit
+
+My approach to economics closely mirrors CORE Econ’s pedagogical mission of problem-based, empirically grounded education. My research consistently links abstract theory to empirical realities, institutions, and power dynamics—whether by reconstructing the political economy of Chile's Unidad Popular through central bank balance sheets, or by tracing how technological change and rural-urban transitions shaped labor's bargaining power. My methodological pluralism, spanning econometric modeling, data science, and qualitative trajectory mapping, equips me to contribute to curriculum materials that teach students how to synthesize evidence, theory, and policy to understand contemporary capitalism.
+
+### 6. Research-to-teaching bridge
+
+My research actively informs my pedagogy by prioritizing a critical, evidence-based inquiry into economic structures. Having taught courses spanning political economy, development, macroeconomics, and research design, I leverage my own methodological practices—such as building datasets or dissecting the political assumptions behind macroeconomic indicators like the output gap—to help students formulate socially meaningful research questions. My experience mentoring theses on diverse topics like feminist political economy, educational inequality, and corruption reflects my ability to translate complex, multi-dimensional research into accessible curriculum development, fostering an environment where students connect economic theory with institutional realities.
+
+### 7. Cover-letter-ready paragraph
+
+As a political economist investigating the historical and institutional dynamics of global capitalism, my research provides a structural foundation for understanding inequality—a focus that aligns directly with the missions of CORE Econ and the Stone Centre. My dissertation and broader research portfolio utilize applied econometrics, data science, and historical analysis to demonstrate how macroeconomic phenomena, such as capacity utilization and accumulation regimes, are fundamentally driven by distributive conflict, labor relations, and core-periphery hierarchies. By tracing the roots of inequality through functional distribution, educational segregation, and gender gaps, I challenge models that treat distribution as a residual outcome, instead placing it at the center of economic reproduction. This empirically grounded, problem-based approach to economics naturally bridges my research and pedagogy, equipping me to contribute to CORE Econ’s curriculum development by helping students connect economic theory with real-world evidence, institutions, power, and public policy.
+
+### 8. Evidence bank
+
+- **Methodological Pluralism:** Proficiency across time-series econometrics (VECM, ARDL), data science (text-as-data, web scraping), and qualitative methods (Intellectual Trajectory Mapping).
+- **Dissertation Chapter 1:** A critical replication of Anwar Shaikh’s capacity utilization measure, demonstrating econometrically that the output-capital multiplier relies structurally on distribution (the rate of exploitation) and institutional shock vectors.
+- **Dissertation Chapter 3:** Uses a historical local-projection strategy to trace how external terms-of-trade shocks and financial subordination interacted with domestic distributive conflict during Chile's Unidad Popular.
+- **Educational Inequality Publication:** Co-authored a 2015 peer-reviewed paper in _Calidad en la Educación_ analyzing how teacher segregation reproduces social inequalities, showing a direct link between teacher origins, working conditions, and student SIMCE outcomes.
+- **Gender Inequality Research:** Conducted policy-oriented research (2015-2016) for Chile's Ministry of Economy on women's inclusion in the economy, quantifying the impact of female labor participation on national productivity.
+- **Working Paper on Wealth Inequality:** "Distributive Cycles, Financial Fragility, and Wealth Inequality in a Goodwin–Minsky Model" (2026), connecting distributive cycles with debt dynamics and asset inequality.
+- **Teaching & Mentorship:** Over a decade of teaching and advising experience (UMass Amherst, Wesleyan, U de Chile) covering political economy and research design, alongside mentoring theses on feminist political economy and redistributive effects.
+
+### 9. Wording cautions
+
+- **Wealth Inequality:** Do not present yourself as a primary scholar of _household wealth inequality_. Your focus is predominantly on _functional distribution_ (wage vs. profit shares), though you can point to your 2026 working paper that incorporates wealth inequality into a Goodwin-Minsky framework.
+- **Macroeconomic measurement:** Avoid claiming you have "solved" the capacity utilization measurement problem. Your dissertation explicitly states that it highlights the fragility of these measures and clarifies that utilization is _distributionally mediated_ rather than uniquely settled.
+- **CORE or Stone Centre alignment:** Frame your connection purely as substantive intellectual and pedagogical alignment. Do not claim prior affiliation or direct collaboration.
+- **Public-facing economics education:** While you have extensive teaching experience and focus heavily on problem-based research design, avoid phrasing that implies you have previously built massive open-access curricula or public-facing platforms like CORE's. Keep the focus on _pedagogy_ and _curriculum development_.

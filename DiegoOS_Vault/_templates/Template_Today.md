@@ -1,0 +1,41 @@
+---
+type: daily_frontend
+status: active
+layer: frontend
+created: "{{date}}"
+---
+
+# Today — {{date}}
+
+## Opening constraint
+Today must not expand into:
+
+> 
+
+## Protected deliverable
+Only one.
+
+> [ ] 
+
+## Moves
+Max three.
+
+1. [ ] 
+2. [ ] 
+3. [ ] 
+
+## Parking
+- 
+
+## Training 
+## Soft friction capture
+Only if blocked.
+
+I intended to ___  
+but instead ___  
+because ___.
+
+## Closure
+What became clearer?
+
+> 

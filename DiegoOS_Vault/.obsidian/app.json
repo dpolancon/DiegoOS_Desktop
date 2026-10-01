@@ -1,0 +1,18 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "08_INBOX",
+  "attachmentFolderPath": "./09_ATTACHMENTS",
+  "userExcludedFilenames": [
+    "system/",
+    "_Cold_Storage/"
+  ],
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Tabloid",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 75
+  },
+  "promptDelete": false
+}

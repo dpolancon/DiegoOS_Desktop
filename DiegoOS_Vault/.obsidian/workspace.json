@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "99f399a619b5ca2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcd0829aa796b7d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89c054fdabaeff48",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9ec1f8a50816c48b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2d37cd2927a077d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac516c43dc7af274",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c8934257e2e58b85",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "b6e33fc39f6a9a6e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e0f39eee9ea3e2b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d00e4538d786a0a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "042c2b849e4560e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7a2abc00b55bc290",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03_Outer_Layer/A_Active_Missions/App_HECON_TT_PennUS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "886e47d42a572170",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03_Outer_Layer/A_Active_Missions/App_HECON_TT_PennUS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "3f6a007da75ceb90",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6d0f46f6e0d24296",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02_Inner_Layer/Dissertation/Chapter2_PendingTasks.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Chapter2_PendingTasks"
+            }
+          },
+          {
+            "id": "087267c7bac301c7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 331.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "89c054fdabaeff48",
+  "lastOpenFiles": [
+    "08_INBOX/Tasks.md",
+    "03_Outer_Layer/A_Active_Missions/APP_JJCC_CUNY.md",
+    "08_INBOX/paper_cn_JoseOlivari.md",
+    "03_Outer_Layer/System_Prompts.md",
+    "03_Outer_Layer/Active_Dashboard.md",
+    "03_Outer_Layer/A_Active_Missions/App_HECON_TT_PennUS.md",
+    "Dashboard.md",
+    "03_Outer_Layer/A_Active_Missions/App_Berkley_PE5050.md",
+    "01_Peripheral_Layer/GPIM_Explorer_Pending_Deliverable.md",
+    "Untitled.md",
+    "03_Outer_Layer/B_Unactive/SPEGA Political Economy Madrid.md",
+    "03_Outer_Layer/B_Unactive/UB HPE Postdoc Application.md",
+    "_templates/Template_App_Cards.md",
+    "01_Peripheral_Layer/System_Guides_Diagnostics/datetime_parsing_standards.md",
+    "01_Peripheral_Layer/System_Guides_Diagnostics/application_card_template.md",
+    "01_Peripheral_Layer/System_Guides_Diagnostics/AI_Operational_Guidelines.md",
+    "01_Peripheral_Layer/E_transitory logs/estrategia_linkedin_camila.md",
+    "01_Peripheral_Layer/E_transitory logs/contenidos_linkedin_camila.md",
+    "01_Peripheral_Layer/09_ATTACHMENTS/FormulacionRegEsp.docx.md",
+    "02_Inner_Layer/digital_politics/02_Session_Rcodes_01_Handoff.md",
+    "02_Inner_Layer/digital_politics/00_ProjectManagment.md",
+    "08_INBOX/SLKDLKSDLKSDLK.md",
+    "08_INBOX/Untitled.md",
+    "08_INBOX/Untitled 2.md",
+    "08_INBOX/as.md",
+    "02_Inner_Layer/digital_politics/01_ACTIVE_SessionHandoff.md",
+    "01_Peripheral_Layer/09_ATTACHMENTS",
+    "02_Inner_Layer/Fondecyt/FONDECYT_SystematicReview.pdf",
+    "02_Inner_Layer/CSD_ER/repo",
+    "02_Inner_Layer/Fondecyt/memo_literatura_SHT.pdf",
+    "07_RECYCLING",
+    "01_Peripheral_Layer/D_Training/planificaciones",
+    "02_Inner_Layer/Dissertation/_archived_notes",
+    "02_Inner_Layer/CSD_ER",
+    "02_Inner_Layer/digital_politics/_legacy",
+    "02_Inner_Layer/digital_politics"
+  ]
+}

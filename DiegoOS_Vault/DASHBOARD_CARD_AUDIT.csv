@@ -1,0 +1,8 @@
+file,id,project_id,type,status,priority,state,dashboard_visible,deadline,freeze,lane,included_in_dashboard,repair_needed,problem
+03_Outer_Layer\Active_Missions\2026_Test_Project.md,,2026_Test_Project,,active,standard,,True,2026-06-01,2026-05-22,,False,False,test card excluded
+03_Outer_Layer\Active_Missions\2026_Test_Proposal.md,,2026_Test_Proposal,,active,standard,,True,2026-05-30,2026-05-29,,False,False,test card excluded
+03_Outer_Layer\Active_Missions\JinanU_3yPostdoc_IERS.md,jnu_iesr_irf,,application_card,pipeline_eval,high,active,True,2026-12-31,2026-12-30,applications,True,False,
+03_Outer_Layer\Active_Missions\LSE_Fellow_position.md,,2026_LSE_Fellow,application_card,active,standard,active,True,2026-06-12,2026-06-11,applications,True,False,
+03_Outer_Layer\Active_Missions\Norwhich_global_development.md,,2026_global_development_Norwhich,application_card,active,standard,active,True,2026-06-01,2026-05-31,applications,True,False,
+03_Outer_Layer\Active_Missions\Oxford_OSGA_application_card.md,oxford_osga_dl,,application_card,pipeline_eval,high,,True,2026-06-15,2026-06-14,applications,True,False,
+03_Outer_Layer\Active_Missions\Simon_Fraser_VisitingScholar.md,sfu_farley_visiting_scholar,,application_card,pipeline_eval,high,parked,True,2026-05-31,2026-05-30,applications,True,False,
