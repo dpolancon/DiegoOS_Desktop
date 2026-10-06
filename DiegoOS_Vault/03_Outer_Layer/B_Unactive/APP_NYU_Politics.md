@@ -20,14 +20,14 @@ tags:
 
 ### What the ad is *actually* saying
 
-| Surface Language | Subtext |
-|---|---|
-| "Outstanding and innovative scholars" | They want someone with a distinctive intellectual identity, not a derivative dissertation. The writing sample and research statement must signal a *unique voice*. |
-| "Future disciplinary leaders" | This is the most important phrase in the ad. They are not hiring a competent junior scholar; they are hiring someone they believe will be a *star* in 10 years. Your research pipeline must project scale and ambition. |
-| "US politics" | Hard subfield constraint. Your application must be legible as US Politics to a search committee that likely includes scholars of American Political Development, Political Behavior, Institutions, or Public Policy. |
-| "Steps you have taken (or plan to take)" | This is an *action* prompt, not a *values* prompt. Generic DEI language will be filtered out. They want a list of concrete behaviors. |
-| "Strongly encouraged to supply links to professional websites" | This is a soft requirement. A missing or outdated website will be noticed. |
-| "Fullest consideration by October 6" | Rolling review likely begins immediately after this date. Late applications may be read but will be at a disadvantage. |
+| Surface Language                                               | Subtext                                                                                                                                                                                                                 |     |
+| -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| "Outstanding and innovative scholars"                          | They want someone with a distinctive intellectual identity, not a derivative dissertation. The writing sample and research statement must signal a *unique voice*.                                                      |     |
+| "Future disciplinary leaders"                                  | This is the most important phrase in the ad. They are not hiring a competent junior scholar; they are hiring someone they believe will be a *star* in 10 years. Your research pipeline must project scale and ambition. |     |
+| "US politics"                                                  | Hard subfield constraint. Your application must be legible as US Politics to a search committee that likely includes scholars of American Political Development, Political Behavior, Institutions, or Public Policy.    |     |
+| "Steps you have taken (or plan to take)"                       | This is an *action* prompt, not a *values* prompt. Generic DEI language will be filtered out. They want a list of concrete behaviors.                                                                                   |     |
+| "Strongly encouraged to supply links to professional websites" | This is a soft requirement. A missing or outdated website will be noticed.                                                                                                                                              |     |
+| "Fullest consideration by October 6"                           | Rolling review likely begins immediately after this date. Late applications may be read but will be at a disadvantage.                                                                                                  |     |
 
 ### Department Context (Wilf Family Department of Politics)
 

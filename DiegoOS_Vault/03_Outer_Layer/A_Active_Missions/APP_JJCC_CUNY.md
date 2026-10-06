@@ -19,7 +19,8 @@ last_action_reviewed: "2026-09-22"
 last_reviewed: "2026-09-22"
 ai_allowance: "restricted"
 gatekeeper_prompt: "03_Outer_Layer/System_Prompts"
-conceptual_anchor: "02_Inner_Layer/Conceptual_Notes/Anchor_Note"
+conceptual_anchor: "02_Inner_Layer/Notes/JobMarket_2026_27_Positioning_Strategy"
+parent_mission: "03_Outer_Layer/A_Active_Missions/JOB_MARKET_2026_27"
 tags:
   - application
   - economics
@@ -37,6 +38,13 @@ tags:
     
 - **Registry command:** High-priority tenure-track application at a specialized CUNY institution. This position explicitly demands a departure from mainstream neoclassical orthodoxy, strongly encouraging *heterodox economics* and *pluralism*. Crucially, the application must deeply integrate John Jay’s specific institutional mission regarding criminal justice and its "Seven Principles for a Culturally Responsive, Inclusive, and Anti-Racist Curriculum." The candidate must demonstrate alignment with trauma-informed pedagogy, democratic education, and serving a highly diverse, non-traditional student body.
     
+
+---
+
+## Strategic Linkage
+
+- Market control: [[JOB_MARKET_2026_27]]
+- Positioning anchor: [[JobMarket_2026_27_Positioning_Strategy]]
 
 ---
 

@@ -19,7 +19,8 @@ last_action_reviewed: "2026-09-15"
 last_reviewed: "2026-09-15"
 ai_allowance: "restricted"
 gatekeeper_prompt: "03_Outer_Layer/System_Prompts.md"
-conceptual_anchor: "02_Inner_Layer/Conceptual_Notes/Anchor_Note.md"
+conceptual_anchor: "02_Inner_Layer/Notes/JobMarket_2026_27_Positioning_Strategy"
+parent_mission: "03_Outer_Layer/A_Active_Missions/JOB_MARKET_2026_27"
 tags:
   - application
   - economics
@@ -35,6 +36,13 @@ tags:
     
 - **Registry command:** High-priority tenure-track liberal arts college (LAC) application. This is a teaching-intensive role requiring a pivot from a purely research-focused HPE profile to a teacher-scholar profile grounded in heterodox economics, political economy, and postcolonial development. The application must demonstrate pluralist pedagogical capacity and a deep commitment to inclusive excellence. Interfolio submission required.
     
+
+---
+
+## Strategic Linkage
+
+- Market control: [[JOB_MARKET_2026_27]]
+- Positioning anchor: [[JobMarket_2026_27_Positioning_Strategy]]
 
 ---
 

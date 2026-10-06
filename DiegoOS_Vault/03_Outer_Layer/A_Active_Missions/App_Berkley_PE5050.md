@@ -19,7 +19,8 @@ last_action_reviewed: "2026-09-20"
 last_reviewed: "2026-09-20"
 ai_allowance: "restricted"
 gatekeeper_prompt: "03_Outer_Layer/System_Prompts.md"
-conceptual_anchor: "02_Inner_Layer/Conceptual_Notes/Anchor_Note.md"
+conceptual_anchor: "02_Inner_Layer/Notes/JobMarket_2026_27_Positioning_Strategy"
+parent_mission: "03_Outer_Layer/A_Active_Missions/JOB_MARKET_2026_27"
 tags:
   - application
   - economics
@@ -36,6 +37,13 @@ tags:
     
 - **Registry command:** High-priority R1 tenure-track application. This is a prestigious, interdisciplinary Senate position at UC Berkeley. The application requires a strategic pivot to emphasize *interdisciplinary* political economy (bridging economics, history, and political science). Crucially, UC Berkeley no longer uses a single "Diversity Statement"; instead, diversity, equity, and inclusion (DEI) contributions must be explicitly woven into the Research, Teaching/Mentoring, and Service statements. AP Recruit portal submission required.
     
+
+---
+
+## Strategic Linkage
+
+- Market control: [[JOB_MARKET_2026_27]]
+- Positioning anchor: [[JobMarket_2026_27_Positioning_Strategy]]
 
 ---
 
