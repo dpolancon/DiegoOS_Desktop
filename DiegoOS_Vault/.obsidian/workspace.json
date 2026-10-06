@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "89c054fdabaeff48",
+            "id": "bd9ad87d71df3952",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -79,10 +79,12 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           }
         ],
@@ -196,26 +198,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "89c054fdabaeff48",
+  "active": "bd9ad87d71df3952",
   "lastOpenFiles": [
-    "03_Outer_Layer/Active_Dashboard.md",
-    "03_Outer_Layer/A_Active_Missions/APP_NYU_Politics.md",
     "08_INBOX/Tasks.md",
+    "08_INBOX/SKILLS_Guide_Repo_AcademicResearch.md",
+    "08_INBOX/01_CORE_Mecanismo_SHT_v2.md",
+    "07_RECYCLING/SKILLS_Guide_Repo_AcademicResearch.md",
+    "Dashboard.md",
+    "system/backups/card_frontmatter/2026-05-23/JinanU_3yPostdoc_IERS.md.bak.md",
+    "10_MODELS/model_selection_guide.md",
+    "07_RECYCLING/01_CORE_Mecanismo_SHT_v2.md",
+    "03_Outer_Layer/A_Active_Missions/App_Bucknell_HECON_TT.md",
     "03_Outer_Layer/A_Active_Missions/APP_JJCC_CUNY.md",
     "08_INBOX/paper_cn_JoseOlivari.md",
     "03_Outer_Layer/System_Prompts.md",
+    "03_Outer_Layer/Active_Dashboard.md",
     "03_Outer_Layer/A_Active_Missions/App_HECON_TT_PennUS.md",
-    "Dashboard.md",
     "03_Outer_Layer/A_Active_Missions/App_Berkley_PE5050.md",
     "01_Peripheral_Layer/GPIM_Explorer_Pending_Deliverable.md",
     "Untitled.md",
@@ -228,12 +236,6 @@
     "01_Peripheral_Layer/E_transitory logs/estrategia_linkedin_camila.md",
     "01_Peripheral_Layer/E_transitory logs/contenidos_linkedin_camila.md",
     "01_Peripheral_Layer/09_ATTACHMENTS/FormulacionRegEsp.docx.md",
-    "02_Inner_Layer/digital_politics/02_Session_Rcodes_01_Handoff.md",
-    "02_Inner_Layer/digital_politics/00_ProjectManagment.md",
-    "08_INBOX/SLKDLKSDLKSDLK.md",
-    "08_INBOX/Untitled.md",
-    "08_INBOX/Untitled 2.md",
-    "08_INBOX/as.md",
     "01_Peripheral_Layer/09_ATTACHMENTS",
     "02_Inner_Layer/Fondecyt/FONDECYT_SystematicReview.pdf",
     "02_Inner_Layer/CSD_ER/repo",
